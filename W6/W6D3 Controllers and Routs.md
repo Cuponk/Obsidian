@@ -42,7 +42,7 @@ The **path** and **query string** are part of the URL
 
 ---
 
-## Components of an HTTP Request
+## Components of an HTTP #Request
 
 - **Method (HTTP Verb)** (e.g. `GET`, `POST`) - describes what action to perform
     

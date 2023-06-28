@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W3/W3D2 - References.md",
+                "file": "W6/W6D3 Controllers and Routs.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W3/W3D2 - References.md",
+                "file": "W6/W6D3 Controllers and Routs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "W3/W3D2 - References.md",
+                "file": "W6/W6D3 Controllers and Routs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "W3/W3D2 - References.md"
+                "file": "W6/W6D3 Controllers and Routs.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "f0e72d8a8aef06b5",
   "lastOpenFiles": [
+    "W3/W3D2 - References.md",
     "W4/W4D2 - OOP.md",
     "W4/W4D3 - Big O.md",
     "W4/W4D5 - Rspec.md",
@@ -193,7 +194,6 @@
     "W3/W3D5 - Data Structures.md",
     "W3/W3D4 - GitHub.md",
     "W3/W3D3 - Recursion 😭.md",
-    "W3/W3D2 - References.md",
     "Untitled.canvas",
     "W3/Untitled.md",
     "W3",

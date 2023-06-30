@@ -31,14 +31,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W6/W6D3 Controllers and Routs.md",
+                "file": "W4/W4D2 - OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37dea13408f9fe02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W6/W6D4 - Views.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W6/W6D3 Controllers and Routs.md",
+                "file": "W6/W6D4 - Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "W6/W6D3 Controllers and Routs.md",
+                "file": "W6/W6D4 - Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "W6/W6D3 Controllers and Routs.md"
+                "file": "W6/W6D4 - Views.md"
               }
             }
           }
@@ -167,15 +179,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f0e72d8a8aef06b5",
+  "active": "37dea13408f9fe02",
   "lastOpenFiles": [
-    "W3/W3D2 - References.md",
+    "W6/W6D3 - Controllers and Routes.md",
+    "W6/W6D4 - Views.md",
     "W4/W4D2 - OOP.md",
     "W4/W4D3 - Big O.md",
+    "W3/W3D2 - References.md",
     "W4/W4D5 - Rspec.md",
     "W5/W5D2 - SQL.md",
     "W6/W6D2 - CSS Display.md",
-    "W6/W6D3 Controllers and Routs.md",
     "Assets/Pasted image 20230628125708.png",
     "Assets/Pasted image 20230628125213.png",
     "Assets/Pasted image 20230628125057.png",
